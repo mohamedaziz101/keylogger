@@ -1,5 +1,7 @@
 # Simple Python Keylogger
 
+**Dependencies:** xlib (`sudo apt-get install python-xlib`)
+
 ### About PyxHook
 
 > pyxhook is an implementation of pyhook (http://sourceforge.net/projects/pyhook/) that works on Linux
